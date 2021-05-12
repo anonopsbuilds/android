@@ -1,21 +1,10 @@
 # android
 Information of android general system : 
 
-Famille 	Linux
-Langues 	Multilingue
-Type de noyau 	Monolithique, (noyau Linux modifié)
-État du projet 	En cours
-Dépôt 	android.googlesource.com et android-review.googlesource.com/admin/repos
-Plates-formes 	Architecture MIPS, architecture ARM et x86
-Entreprise /
-Fondateur 	Rich Miner (en) et Andy Rubin
-Entreprise /
-Développeur 	Google
-Licence 	Licence Apache version 2.0 et Licence publique générale GNU version 2
-États des sources 	Ouvertes (Open source)
-Écrit en 	C, C++, Kotlin, format XML et Java
-Première version 	23 septembre 2008
-Dernière version stable 11 (8 septembre 2020)2
-Méthode de mise à jour 	OTA, ZIP flashable, Google Play Store (pour les mises à jour de sécurité sur Android 10)
-Gestionnaire de paquets 	Google Play, F-Droid, Yandex.Store (d), Samsung Apps et APK
-Site web 	www.android.com
+Android is defined as a software stack, i.e. a set of software intended to provide a turnkey solution for mobile devices - smartphones and touchscreen tablets4,5,6. This stack includes an operating system (including a Linux kernel), key applications such as the web browser, phone, and address book, and middleware between the operating system and applications5. The whole is organized in five distinct layers:
+
+     the Linux kernel with the drivers;
+     software libraries such as WebKit / Blink, OpenGL ES, SQLite or FreeType;
+     a runtime environment and libraries for running programs intended for the Java platform;
+     a framework - application development kit;
+     a package of standard applications that includes a desktop environment, an address book, a web browser and a phone application. 
